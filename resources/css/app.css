@@ -1,0 +1,10 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+.content {
+    max-width: 1100px;
+}
+form {
+    max-width: 900px;
+    margin: auto;
+}
